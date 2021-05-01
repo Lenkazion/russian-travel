@@ -8,6 +8,10 @@
    color: #FFFFFF;
 }
 
+.header__lang-link:first-child {
+   margin: 18px 18px 0 6px;
+}
+
 .header__lang-link:hover {
    opacity: 0.7;
    transition-duration: 0.7s;
@@ -19,4 +23,9 @@
        line-height: 20px;
        margin: 14px 0 8px;
    }
+
+   .header__lang-link:first-child {
+      margin: 14px 18px 0 8px;
+   }
+   
 }
