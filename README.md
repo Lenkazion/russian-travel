@@ -1,16 +1,12 @@
-# Проект 3: Путешествие по России
+# Yandex Bootcamp Project: Russian Travel
 
-Путешествие по России - мой первый сайт с адаптивным дизайном.
+the second project of the yandex web development bootcamp – another single page website with a few additions.
 
-### Описание Проекта
+the website provides information about travelling in russia, showing different beautiful places that are worth visiting. 
 
-Информативный сайт о местах, которые стоит посетить в России. Для тех, кто всегда задавался вопросом, какие красивые места может предложить Россия.
+note: the whole program was being teached in russian – an english version of the website is going to be implemented in the near future.
 
-### Используемые технологии
+## Technologies
 
-В этом проекте использовались грид-технология и медиа-запросы, с помощью которых адаптивность сайта на разных размерах экрана стало возможным. Сделано в HTML и CSS.
-
-### Я хочу знать больше! Где я могу найти сайт?
-
-Вот, лови ссылку: https://lenkazion.github.io/russian-travel/
+the project was implemented in plain html & css, is structured according to the BEM methodology and also uses the grid layout and media queries to make the website adaptive to different screen sizes.
 
